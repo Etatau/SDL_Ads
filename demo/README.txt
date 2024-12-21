@@ -1,3 +1,5 @@
+I used Pixel 9 API 28 in android studio as my simulation device.
+
 -Open the folder "example" in android studio
 
 -Download the source code of SDL and SDL_image from these 2 links
