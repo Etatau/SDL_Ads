@@ -1,4 +1,4 @@
-Open the folder "example" in android studio
+-Open the folder "example" in android studio
 
 -Download the source code of SDL and SDL_image from these 2 links
 https://github.com/libsdl-org/SDL/archive/refs/heads/main.zip
